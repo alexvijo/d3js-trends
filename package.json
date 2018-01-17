@@ -1,0 +1,24 @@
+{
+  "name": "d3js-trends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack --watch", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvijo/d3js-trends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvijo/d3js-trends/issues"
+  },
+  "homepage": "https://github.com/alexvijo/d3js-trends#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.10.0"
+  }
+}
